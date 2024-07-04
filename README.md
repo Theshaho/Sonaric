@@ -89,5 +89,5 @@ sonaric identity-import -i idenity.file
 # About me
 I love crypto and coding
 
-you can find me on [iamshaho](https://x.com/iamshaho) 
+you can find me on X [iamshaho](https://x.com/iamshaho) 
 
