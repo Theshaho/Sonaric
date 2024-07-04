@@ -1,7 +1,7 @@
 # Sonaric
 in this guide you will learn how to set up Sonaric node and eran points.
 
-Sonaric on X(https://x.com/SonaricNetwork)
+Sonaric on [Sonaricnetwork](https://x.com/SonaricNetwork)
 
 # OS requirement
 Sonaric AI Node is supported on the following Linux distributions:
@@ -57,9 +57,9 @@ sonaric points
 
 # check your rank
 use  Sonaric Tracker to see your node and server info
-```
-https://tracker.sonaric.xyz/
-```
+
+[Sonaric Tracker](https://tracker.sonaric.xyz/)
+
 ![Screenshot 2024-07-04 124842](https://github.com/Theshaho/Sonaric/assets/25084190/154ff003-04ba-4acb-a52a-51500cecd96d)
 
 # export keys
@@ -82,4 +82,5 @@ sonaric identity-import -i idenity.file
 ```
 
 # About me
-you can find me on X (https://x.com/iamshaho) 
+you can find me on [iamshaho](https://x.com/iamshaho) 
+
