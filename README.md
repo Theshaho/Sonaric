@@ -62,5 +62,24 @@ https://tracker.sonaric.xyz/
 ```
 ![Screenshot 2024-07-04 124842](https://github.com/Theshaho/Sonaric/assets/25084190/154ff003-04ba-4acb-a52a-51500cecd96d)
 
-# About me
+# export keys
+The identity-export command allows you to export the current identity of your node. This command is useful for backing up your node's identity information.
 
+To export the current identity of your node, run the following command:
+```
+sonaric identity-export
+```
+You will be prompted to enter a password to encrypt the exported identity. After entering the password, the identity will be exported to stdout. You can redirect the output to a file or use the -o flag to specify the output file like this:
+```
+sonaric identity-export -o identity.file
+```
+# import keys
+The identity-import command allows you to import an identity into your node. This command is useful for restoring a previously exported identity or importing an identity from another node.
+
+To import an identity from identity.file, run the following command:
+```
+sonaric identity-import -i idenity.file
+```
+
+# About me
+you can find me on X (https://x.com/iamshaho) 
