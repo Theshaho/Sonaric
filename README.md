@@ -1,7 +1,7 @@
 # Sonaric
 in this guide you will learn how to set up Sonaric node and eran points.
 
-Sonaric on [Sonaricnetwork](https://x.com/SonaricNetwork)
+Sonaric on X [Sonaricnetwork](https://x.com/SonaricNetwork)
 
 # OS requirement
 Sonaric AI Node is supported on the following Linux distributions:
@@ -11,6 +11,11 @@ Debian 12+
 Fedora 40+
 CentOS 8+
 Rocky Linux 8+
+
+# minimum system requirements
+
+RAM: 2G
+CPU: 2G
 
 # install dependencies
 ```
@@ -82,5 +87,7 @@ sonaric identity-import -i idenity.file
 ```
 
 # About me
+I love crypto and coding
+
 you can find me on [iamshaho](https://x.com/iamshaho) 
 
